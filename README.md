@@ -23,7 +23,7 @@ ______________________________________________
 
 You can only use this for:
 
-    i mean tling to fake friends of course
+    i mean talking to fake friends of course
 
 ______________________________________________
 
