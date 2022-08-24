@@ -3,13 +3,21 @@
 ## Description: this app will allow the user to write a title and text to a db and have that info served back to them when called
 
 ## Table of Contents
-
+- [VideoLink](#video)
 - [Install](#install)
 - [Usage](#usage)
 - [License](#license)
 - [Github](#github)
 - [Contributors](#contributors)
 - [Tests](#tests)
+
+
+
+## VideoLink
+
+https://drive.google.com/file/d/1RwNr3dpTLtX7Q9q6NweRW6IQc8thfN7i/view
+
+_____________________________________________
 
 ## Install 
 
